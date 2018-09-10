@@ -1,0 +1,12 @@
+# SnipAway Issue Tracker
+
+<img src="https://raw.githubusercontent.com/Futureglobe/SnipAway/master/appIcon.png" width="80" style="float: left; margin-right: 15px"/>
+<br/> 
+
+<p style="margin-top: -7px; margin-bottom: -10px">This GitHub repository acts as a public issue tracker for the snippet manager program SnipAway, which is currently under development</p><br/><br/>
+
+
+## Requesting Beta Access
+
+SnipAway is currently in beta state. If you still would like to play around with it, give feedback or become a beta tester, then please contact us under 
+[support@futureglobe.de](mailto:support@futureglobe.de)
