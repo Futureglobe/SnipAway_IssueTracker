@@ -1,6 +1,10 @@
 # SnipAway Issue Tracker
 
-This GitHub repository acts as a public issue tracker for the snippet manager program SnipAway, which is currently under development
+<img src="https://raw.githubusercontent.com/Futureglobe/SnipAway/master/appIcon.png" width="80" style="float: left; margin-right: 15px"/>
+<br/> 
+
+<p style="margin-top: -7px; margin-bottom: -10px">This GitHub repository acts as a public issue tracker for the snippet manager program SnipAway, which is currently under development</p><br/><br/>
+
 
 ## Requesting Beta Access
 
