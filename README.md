@@ -5,7 +5,7 @@
 </p>
 
 
-This GitHub repository acts as a public issue tracker for the snippet manager program SnipAway, which is currently under development</>
+This GitHub repository acts as a public issue tracker for the snippet manager program SnipAway, which is currently under development
 
 
 ## Requesting Beta Access
