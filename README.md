@@ -1,7 +1,7 @@
 # SnipAway Issue Tracker
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Futureglobe/SnipAway/master/appIcon.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/Futureglobe/SnipAway_IssueTracker/master/appIcon.png" width="150"/>
 </p>
 
 
